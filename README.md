@@ -6,4 +6,5 @@ This is the collection of terraform and packer scripts for Azure.
 
 2.	Terraform: 
 a.	To use “generalized” image from a shared image gallery in a different subscription, see vm-main-generalized-image-windows.tf or vm-main-generalized-image-linux.tf
+
 b.	To use “specialized” image from a shared image gallery in a different subscription, see vm-main-specialized-image.tf
