@@ -8,11 +8,11 @@
     "subscription_id": "----------------------------------------------",
 
     "managed_image_resource_group_name": "rally-sig-rg",
-    "managed_image_name": "rally-Ubuntu-04022020-3",
+    "managed_image_name": "rally-Ubuntu-04202020-1",
     "shared_image_gallery_destination": {
         "resource_group": "rally-sig-rg",
-        "gallery_name": "rallysig",
-        "image_name": "rally-imagedef-general-2",
+        "gallery_name": "rally-sig-1",
+        "image_name": "rally-imagedef-general-1",
         "image_version": "1.0.0",
         "replication_regions": ["westus2"]
     },
