@@ -7,12 +7,12 @@
     "tenant_id": "----------------------------------------------",
     "subscription_id": "----------------------------------------------",
 
-    "managed_image_resource_group_name": "avid-sig-rg",
-    "managed_image_name": "avid-Ubuntu-04022020-3",
+    "managed_image_resource_group_name": "rally-sig-rg",
+    "managed_image_name": "rally-Ubuntu-04022020-3",
     "shared_image_gallery_destination": {
-        "resource_group": "avid-sig-rg",
-        "gallery_name": "avidsig",
-        "image_name": "avid-imagedef-general-2",
+        "resource_group": "rally-sig-rg",
+        "gallery_name": "rallysig",
+        "image_name": "rally-imagedef-general-2",
         "image_version": "1.0.0",
         "replication_regions": ["westus2"]
     },
